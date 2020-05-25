@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test num. 2 pel pas 5 
+=======
+Test fet per branch1
+>>>>>>> branch1
